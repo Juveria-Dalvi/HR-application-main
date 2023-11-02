@@ -83,7 +83,7 @@ include "Database/upcomingdb.php";
         }
         .sidebar a:hover{
             text-decoration:none;
-            color:#EC6746;
+            color:#EC6746!important;
         }
         
 
